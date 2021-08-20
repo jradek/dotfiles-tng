@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/Users/micha/git_root/phd_thesis/thesis/scripts'
+let g:netrw_dirhist_3='/Users/micha/.config/spotifyd'
+let g:netrw_dirhist_2='/Users/micha/git_root/phd_thesis/TechnicalMarkdown'
+let g:netrw_dirhist_1='/Users/micha/git_root/phd_thesis/thesis_code/3rd-party'
+let g:netrw_dirhist_0='/Users/micha'
+let g:netrw_dirhist_9='/Users/micha/AgenaRisk'
+let g:netrw_dirhist_8='/Users/micha/git_root/phd_thesis'
+let g:netrw_dirhist_7='/Users/micha/git_root/phd_thesis/arabica'
+let g:netrw_dirhist_6='/Users/micha/git_root/phd_thesis/arabica/bib'
+let g:netrw_dirhist_5='/Users/micha/git_root/phd_thesis/thesis/vimspell'
